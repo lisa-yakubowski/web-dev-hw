@@ -1,0 +1,19 @@
+#How is the web different from the internet?
+
+The web is the connection of data and information over the internet. The internet is the connection of multiple networks. 
+
+#Briefly describe how the internet works.
+
+The internet works as a series of networks connected to each other, sending data back and forth between them. This allows for
+interconnectivity of numerous local networks into one giant network, which is the internet.
+
+#What is a directory and what is its relation to files?
+
+A directory is what holds a file or group of files. Files can go into a directory, and multiple directories can be contained
+within a single directory. 
+
+#Why is using VCS benefitial?
+
+Using VCS allows you to track changes, revert back to previous versions of a file, as well as share and collaborate. By 
+using VCS to view multiple versions and changes it allows for you and all involved with a project to see what's different or
+what's been updated. 
