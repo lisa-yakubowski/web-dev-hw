@@ -1,0 +1,15 @@
+Briefly describe one way how data travels on the internet:
+
+One method of data transmission over the internet is via light. This is traditionally done with fiber optic cables to ensure fast and stable transfer rates, but at the downside of high cost.
+
+What is the relationship between an IP address and the DNS?:
+
+The DNS routes via an address, such as www.example.com, to the appropriate IP address for the destination website.
+
+What is a cookie?
+
+A cookie is essentially a data-based ID for a website reflecting a stored identifier for your device.
+
+List the three basic parts of a URL:
+
+The protocol, the domain, and the directory are the three basic components of a URL.
