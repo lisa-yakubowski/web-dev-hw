@@ -1,0 +1,35 @@
+/* CSS Style Sheet */
+
+body {
+  background-image: url("../images/background.jpg");
+  background-repeat: 1 1;
+}
+img {
+  opacity: 1.0;
+}
+.section {
+    background-color: tan;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    opacity: 0.85;
+    position: relative;
+
+}
+.image {
+    background-color: silver;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    opacity: 1.0;
+    position: relative;
+}
+#titleDiv {
+  text-align: center;
+  color: silver;
+  text-shadow: 3px 2px 2px black;
+}
+#contentDiv {
+  text-align: left;
+  color: black;
+}
