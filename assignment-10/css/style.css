@@ -1,0 +1,39 @@
+/* CSS Style Sheet */
+
+body {
+  background-color: black;
+  color: white;
+  padding: 75px;
+  font-family: 'Amatic SC', arial;
+}
+p:first-of-type::first-letter{
+
+}
+h1:first-of-type::first-line{
+  font-family: 'Delius Unicase', cursive;
+  font-size: 3em;
+  font-weight: 100;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+div {
+  text-align: left;
+  background-color: white;
+  color: black;
+  padding: 50px;
+}
+a{
+  background-color: red;
+  color: white;
+  padding: 5px;
+}
+a:hover{
+  font-style: italic;
+}
+a:visited{
+  color: silver;
+}
