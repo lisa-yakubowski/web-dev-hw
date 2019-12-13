@@ -1,0 +1,130 @@
+/* Set your header design: */
+body {
+  font-family: 'Geo', sans-serif;
+  background-color: #FFECF9;
+}
+h1 {
+  text-align: center;
+}
+header {
+    background-color: black;
+    font-family: 'Geo', sans-serif;
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 50px;
+    text-align: center;
+    padding: 25px;
+}
+img {
+  margin:auto;
+}
+p{
+  font-size: 16pt;
+  text-align: center;
+}
+a{
+  color: pink;
+  padding: 5px;
+}
+#portfolioLinks {
+    background-color: #FFECF9;
+    font-family: 'Geo', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding: 0.25em;
+}
+
+.portfolio-item {
+    margin: auto;
+    padding: 0.25em;
+    min-width: 75px;
+    max-width: 150px;
+    font-size: 16pt;
+    color: #fff;
+    background-color: black;
+    line-height: 2.1em;
+    border: 3px solid black;
+}
+
+.portfolio-item:hover {
+    background-color: #FFECF9;
+    color: #333;
+}
+.btmBar {
+        height: 80px;
+        background-color: Black;
+        color: #ffffff;
+        position: fixed;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        text-align: center;
+}
+#copyright {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 1em 30px;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: pink;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0;
+    margin-top: 0.5em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #FFECF9;
+    background-color: pink;
+}
+.imgCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width 50%;
+}
